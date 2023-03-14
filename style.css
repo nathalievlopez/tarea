@@ -1,0 +1,83 @@
+body{
+    font-family: 'Comfortaa', cursive;
+    background-color: rgb(22, 22, 24);
+    color: white;
+}
+.gradiente{
+    background: rgb(173,173,173);
+    background: linear-gradient(185deg, rgba(173,173,173,1) 0%, rgba(0,0,0,0) 58%);
+}
+#miguelangel{
+    
+    width: 800px;
+    height: 900px;
+}
+
+table{
+    border: collapse;
+    padding: 15px;
+}
+#contenedortexto{
+    padding: 30px;
+    text-align: justify;
+}
+#contenedor1{
+    background-color: rgb(22, 22, 24);
+    padding: 15px;
+}
+.principal1{
+    color: rgb(241, 171, 41);
+}
+.principal2{
+    color: rgb(255, 255, 255);
+}
+td{
+    padding: 15px;
+}
+#foto1{
+    width: 600px;
+    height: 900px;
+}
+.video{
+    padding: 30px;
+}
+.merotitulo{
+    color: rgb(241, 171, 41);
+    font-family: 'Libre Baskerville', serif;
+    font-size: 200px;
+}
+#imagen2{
+    width: 650px;
+    height: 800px;
+}
+.comentarios{
+
+    width: 1000px;
+    height: 50px;
+    font-family: 'Comfortaa', cursive;
+    padding: 15px;
+}
+.boton{
+    width:100px;
+    height: 30px;
+    font-family: 'Comfortaa', cursive;
+    color: rgb(15, 15, 15);
+    background-color: rgb(255, 255, 255);
+}
+.boton:hover{
+    width:100px;
+    height: 30px;
+    font-family: 'Comfortaa', cursive;
+    color: white;
+    background-color: rgb(241, 171, 41);
+}
+.comentarios2{
+
+    width: 300px;
+    height: 10px;
+    font-family: 'Comfortaa', cursive;
+    padding: 15px;
+}
+.comen{
+    padding: 40px 70px;
+}
